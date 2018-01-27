@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IterStackTemplate", "IterStackTemplate\IterStackTemplate.vcxproj", "{A572E99B-F9D3-45F7-9183-2D6F41FCCADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A572E99B-F9D3-45F7-9183-2D6F41FCCADC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A572E99B-F9D3-45F7-9183-2D6F41FCCADC}.Debug|Win32.Build.0 = Debug|Win32
+		{A572E99B-F9D3-45F7-9183-2D6F41FCCADC}.Release|Win32.ActiveCfg = Release|Win32
+		{A572E99B-F9D3-45F7-9183-2D6F41FCCADC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
