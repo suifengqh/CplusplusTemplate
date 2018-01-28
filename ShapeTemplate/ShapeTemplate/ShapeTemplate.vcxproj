@@ -74,6 +74,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="require.h" />
+    <ClInclude Include="Shape.h" />
+    <ClInclude Include="TPStash2.h" />
+    <ClInclude Include="TStack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Drawing.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
